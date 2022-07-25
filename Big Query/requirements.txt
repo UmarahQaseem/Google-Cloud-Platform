@@ -1,0 +1,9 @@
+google-cloud-storage
+json
+pandas
+numpy
+google-cloud-bigquery
+sys
+pandas_gbq
+csv
+io
